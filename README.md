@@ -49,7 +49,7 @@ Welcome to the Expanding Dog Cards project. This interactive webpage showcases a
 
 Customize and elevate your web projects! 🚀🌟
 
-Explore the project live 
+Explore the project live [here](https://akhilgc.github.io/UI-Interactive-Dog-Cards/)
 
 Project Screenshots 🖥️
 <img width="1439" height="778" alt="Screenshot 2025-08-18 at 1 39 27 PM" src="https://github.com/user-attachments/assets/5aac89c8-a4f7-4d72-a57c-a6ce2d422249" />
